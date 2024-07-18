@@ -1,0 +1,6 @@
+insert into praditasari.users (id, NIK, name, email, username, password, remember_token, created_at, updated_at)
+values  (1, 3275636179691815, 'Telly Spencer', 'trantow.afton@example.com', 'amelie.kub', '$2y$12$aH/YrOkTRODvSWRZk72YXubea4iX8Do1s5/1EHHmW162Msf4vLkfq', 'sDgjzQEjLO', '2024-07-13 17:17:23', '2024-07-13 17:17:23'),
+        (2, 3275594188023454, 'Vance Russel PhD', 'manderson@example.com', 'johnston.terrence', '$2y$12$aH/YrOkTRODvSWRZk72YXubea4iX8Do1s5/1EHHmW162Msf4vLkfq', 'ebwRSdPe3n', '2024-07-13 17:17:23', '2024-07-13 17:17:23'),
+        (3, 3275342151699362, 'Samson Torp', 'kfeeney@example.net', 'jamey.okuneva', '$2y$12$aH/YrOkTRODvSWRZk72YXubea4iX8Do1s5/1EHHmW162Msf4vLkfq', 'JKZDtjANAh', '2024-07-13 17:17:23', '2024-07-13 17:17:23'),
+        (4, 3275214079879873, 'Bennie Funk', 'cayla.wunsch@example.net', 'briana54', '$2y$12$aH/YrOkTRODvSWRZk72YXubea4iX8Do1s5/1EHHmW162Msf4vLkfq', 'cX1ZOfQPPW', '2024-07-13 17:17:23', '2024-07-13 17:17:23'),
+        (5, 3275178685557875, 'Sabryna Macejkovic', 'mtromp@example.net', 'xtremblay', '$2y$12$aH/YrOkTRODvSWRZk72YXubea4iX8Do1s5/1EHHmW162Msf4vLkfq', 'Zry4Q9wsvO', '2024-07-13 17:17:23', '2024-07-13 17:17:23');
